@@ -1,0 +1,26 @@
+{
+  "name": "amazon-ec2-nodejs",
+  "version": "1.0.0",
+  "description": "A simple node app deploy to EC2 for learning purpose",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adeisbright/amazon-ec2-nodejs-tutorial.git"
+  },
+  "keywords": [
+    "Amazon",
+    "EC2",
+    "Amazon",
+    "Linux",
+    "Nodejs"
+  ],
+  "author": "Adeleke Bright",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adeisbright/amazon-ec2-nodejs-tutorial/issues"
+  },
+  "homepage": "https://github.com/adeisbright/amazon-ec2-nodejs-tutorial#readme"
+}
